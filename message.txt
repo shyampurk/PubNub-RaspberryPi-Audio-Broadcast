@@ -1,0 +1,1 @@
+Hello. Welcome to this audio broadcast demo using raspberry pi. This is a  message broadcasted using raspberry pi in realtime. This message is being transmitted as text via  PubNub. And raspberry pi is receiving and converting it to speech.Thanks for paying attention. Goodbye and have a good day 
